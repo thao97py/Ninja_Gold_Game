@@ -1,0 +1,35 @@
+div{
+    width: 100%;
+    margin:20px;
+    
+}
+form{
+    border:2px solid black;
+    display: inline-block;
+    width:15%;
+    background: green;
+    padding: 30px;
+    color: bisque;
+    margin: 10px;
+}
+.activities{
+    background: rgb(186, 219, 120);
+    margin: 50px;
+    height:150px;
+    width:80%;
+    border: 1px solid black;
+    overflow: auto;
+    padding:10px;
+}
+span{
+    border: 1px solid black;
+    padding: 0px 50px;
+    display: inline;
+}
+.red{
+    color: red;
+    font-weight: bold;
+}
+.green{
+    color: darkgreen;
+}
